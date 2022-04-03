@@ -15,3 +15,4 @@ hello lj hello git!
 hello lj hello git!
 hello lj hello git!
 hello branch hot-fix!
+hello branch master!
